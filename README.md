@@ -28,3 +28,9 @@ Power Pivot (in some models)
 Dashboard screenshots
 
 ![Screenshot 2025-07-08 164127](https://github.com/user-attachments/assets/be647e5a-c4a1-477b-9fce-d452a72e70d8)
+
+![Screenshot 2025-07-08 163730](https://github.com/user-attachments/assets/68f0981e-cc08-487f-b4da-93cf1f341d83)
+
+![Screenshot 2025-07-07 182208](https://github.com/user-attachments/assets/f0248ef0-ad4f-4d1f-9b66-3f26fff8c881)
+
+
